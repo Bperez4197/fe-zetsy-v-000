@@ -60,3 +60,8 @@ body {
 	#pic {
 		border: 5px rgb(152,173,166) solid;
 	}
+
+	#plug {
+		border: 5px #ccc solid;
+		padding: 1px;
+	}
