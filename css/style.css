@@ -70,7 +70,7 @@ body {
 
 	.plug {
 		border: 5px rgb(204,204,204) solid;
-		padding: 5px;
+		padding: 1px;
 	}
 
 	a:-webkit-any-link {
