@@ -69,7 +69,7 @@ body {
 	}
 
 	#press img {
-		border: 5px #ccc solid;
+		border: 5px rgb(204,204,204) solid;
 		padding: 5px;
 	}
 
