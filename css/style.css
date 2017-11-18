@@ -33,6 +33,10 @@ body {
 		font-size: 5em;
 		color: rgb(111,127,122);
 		border-bottom: 1px solid #ccc;
+		-webkit-margin-before: 0.67em;
+-webkit-margin-after: 0.67em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
 
 	}
 
