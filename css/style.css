@@ -66,6 +66,7 @@ body {
 
 	#press {
 		margin-bottom: 20px;
+		display: inline;
 	}
 
 	.plug {
