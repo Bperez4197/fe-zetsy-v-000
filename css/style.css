@@ -61,7 +61,7 @@ body {
 		border: 5px rgb(152,173,166) solid;
 	}
 
-	#plug1 #plug2 #plug3 #plug4 {
+	.plug {
 		border: 5px #ccc solid;
 		padding: 1px;
 	}
