@@ -41,7 +41,7 @@ body {
 		color: rgb(111,127,122);
 	}
 
-	#footer {
+	div#footer {
 		position: relative;
 		top: 0px;
 		right: 0px;
