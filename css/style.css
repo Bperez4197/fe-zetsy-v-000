@@ -68,7 +68,7 @@ body {
 		margin-bottom: 20px;
 	}
 
-	#press img {
+	.plug {
 		border: 5px rgb(204,204,204) solid;
 		padding: 5px;
 	}
